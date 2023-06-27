@@ -1,0 +1,12 @@
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/TestMauiHandlers.csproj.AssemblyReference.cache
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/TestMauiHandlers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/TestMauiHandlers.AssemblyInfoInputs.cache
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/TestMauiHandlers.AssemblyInfo.cs
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/TestMauiHandlers.csproj.CoreCompileInputs.cache
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/bin/Debug/net7.0/TestMauiHandlers.deps.json
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/bin/Debug/net7.0/TestMauiHandlers.dll
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/bin/Debug/net7.0/TestMauiHandlers.pdb
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/TestMauiHandlers.dll
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/refint/TestMauiHandlers.dll
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/TestMauiHandlers.pdb
+/Users/emilalipiev/Projects/TestMauiHandlers/TestMauiHandlers/obj/Debug/net7.0/ref/TestMauiHandlers.dll

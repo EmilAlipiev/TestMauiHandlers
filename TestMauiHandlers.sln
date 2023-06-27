@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestMauiHandlers", "TestMauiHandlers\TestMauiHandlers.csproj", "{0512C23E-BE63-4E06-862E-942A20F62868}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlersDemoApp", "HandlersDemoApp\HandlersDemoApp.csproj", "{96CE845D-8278-4187-A97E-F6983CBC3EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0512C23E-BE63-4E06-862E-942A20F62868}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0512C23E-BE63-4E06-862E-942A20F62868}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0512C23E-BE63-4E06-862E-942A20F62868}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0512C23E-BE63-4E06-862E-942A20F62868}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96CE845D-8278-4187-A97E-F6983CBC3EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96CE845D-8278-4187-A97E-F6983CBC3EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96CE845D-8278-4187-A97E-F6983CBC3EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96CE845D-8278-4187-A97E-F6983CBC3EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AC28CC0-418A-4CEC-A903-241120F2A03F}
+	EndGlobalSection
+EndGlobal
